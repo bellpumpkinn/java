@@ -1,0 +1,7 @@
+package ch06.ex01.case03;
+
+public class Lion extends Beast {
+	public void shout() {}
+}
+
+//run과 shout가 있다.
